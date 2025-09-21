@@ -40,7 +40,7 @@ Make sure you have the Flutter SDK installed on your machine.
 
 1.  Clone the repository:
     ```sh
-    git clone [https://github.com/HarshaVardhanPharangi29/Quiz-App.git](https://github.com/HarshaVardhanPharangi29/Quiz-App.git)
+    git clone https://github.com/HarshaVardhanPharangi29/Quiz-App.git
     ```
 2.  Navigate to the project directory:
     ```sh
